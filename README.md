@@ -26,6 +26,7 @@ O sistema também realiza experimentos para avaliar o desempenho, o consumo de m
 ## Estrutura do Projeto
 
 ```text
+<<<<<<< HEAD
 Projeto/
 │
 ├── data/
